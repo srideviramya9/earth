@@ -1,0 +1,167 @@
+body{
+    background-image: url(land.image);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+#first{
+    font-size: 40px;
+    color:transparent;
+    background-clip:text;
+    color: orange;
+    display: flex;
+    align-items:center;
+    justify-content:;
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+header{
+    text-align: right;
+}
+button{
+        text-align: center;
+        margin-right: 30px;
+        font-size: 24px;
+        background-color: darkblue;
+        color: white;
+        height: 42px;
+        border: none;
+        border-radius: 12px;
+        cursor: pointer;
+        border: 5px solid green;
+        
+        
+}
+ button:hover{
+            background-color:greenyellow;
+        }
+a{
+        font-size: 22px;
+        text-decoration: none;
+}
+#second{
+    color:white;
+}
+#north-america{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+}
+#asia{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-right-radius: 50px;
+   border-bottom-left-radius: 50px;
+}
+#antarctica{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+}
+#south-america{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-right-radius: 50px;
+   border-bottom-left-radius: 50px;
+}
+#africa{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+}
+#europe{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-right-radius: 50px;
+   border-bottom-left-radius: 50px;
+}
+#oceania{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+}
+#types-of-land{
+    border: 5px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    color:white;
+    background-color:black;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+#pollution{
+    background-color: white;
+    border: 5px solid blue;
+    border-radius: 50px;
+    padding-left: 2%;
+    color:blue;
+}
+
+
+

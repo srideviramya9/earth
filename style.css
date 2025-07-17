@@ -1,0 +1,45 @@
+body{
+    background-image: url(earth.image);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    cursor: url('logo.cur.png'), auto;
+}
+h1{
+    font-size: 40px;
+    color:transparent;
+    background-clip:text;
+    color: orange;
+    display: flex;
+    align-items:center;
+    justify-content:;
+    border: 5px solid blue;
+    border-radius: 10px;
+    
+    
+}
+header{
+    text-align: right;
+}
+button{
+        text-align: center;
+        margin-right: 30px;
+        font-size: 24px;
+        background-color: darkblue;
+        color: white;
+        height: 42px;
+        border: none;
+        border-radius: 12px;
+        cursor: pointer;
+        border: 5px solid green;
+        
+        
+}
+ button:hover{
+            background-color:greenyellow;
+        }
+a{
+        font-size: 22px;
+        text-decoration: none;
+}
+
